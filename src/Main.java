@@ -41,3 +41,17 @@ public class Main {
         train.display();
     }
 }
+
+//      Vehicle car = new Car("kia","kia model");
+//        Car train = new Train("코레일","1T1222");
+//        Vehicle[] vehicles = {car, train};
+//Vehicle[] vehicles = {car, train};
+//        Car car = new Car("kia","kia model");
+//        Train train = new Train("코레일","1T1222");
+//
+//        car = new Train("a", "1");
+//
+//        Vehicle[] vehicles = {car, train};
+//
+//        car.display();
+//        train.display()
